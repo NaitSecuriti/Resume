@@ -1,6 +1,6 @@
 # Site settings
 title: "Richard Naitmazi"
-description: "A resume template for Jekyll and GitHub Pages sites."
+description: "From Huntington Beach to UCSB"
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Richard Naitmazi"
-resume_title:                   "CEO of Alisopix"
+resume_title:                   "CEO of Apple"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "richard@youremailaddress.com"
