@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Richard Naitmazi"
-resume_title:                   "CEO of Apple"
+resume_title:                   "CEO of PureVVater"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "richard@youremailaddress.com"
